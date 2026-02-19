@@ -65,7 +65,7 @@ With over 10 years of experience designing and automating cloud-native infrastru
 
 ## 🌐 Portfolio & Projects
 
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://michael-tran-devops.vercel.app/projects)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://michael-tran.vercel.app/projects)
 
 **Featured Projects:**
 - 🏥 Multi-cloud Healthcare Infrastructure with 99.99% uptime
