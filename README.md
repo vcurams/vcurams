@@ -1,4 +1,4 @@
-<img width="193" height="19" alt="image" src="https://github.com/user-attachments/assets/3c66f3b9-baf0-4f28-bf9c-cca1a9d8b093" /># Hi, I'm Michael Tran 👋
+Hi, I'm Michael Tran 👋
 
 ## DevOps Engineer | Cloud Infrastructure Architect | Healthcare Technology Specialist
 
@@ -72,16 +72,6 @@ With over 10 years of experience designing and automating cloud-native infrastru
 - 🤖 GPU-Accelerated AI/ML Pipelines for medical imaging
 - 🔐 HIPAA-Compliant CI/CD Systems with automated scanning
 - 📊 Real-time Patient Monitoring Platform processing 1M+ events/day
-
----
-
-## 💬 Contact Information
-
-💼 **LinkedIn:** [linkedin.com/in/michael-tran-a78784390](https://linkedin.com/in/michael-tran-a78784390)  
-🌐 **Portfolio:** [michael-tran.vercel.app](https://michael-tran.vercel.app/projects)  
-📍 **Location:** Manassas, Virginia
-
----
 
 <div align="center">
 
